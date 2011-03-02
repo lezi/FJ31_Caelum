@@ -11,10 +11,13 @@ public class AuditoriaInterceptor {
 		String classe = ctx.getTarget().getClass().getSimpleName();
 		String metodo = ctx.getMethod().getName();
 		String params = Arrays.toString(ctx.getMethod().getParameterTypes());
-		
+
+		System.out.println("\n\n\n\n");
 		System.out.println("*************AUDITORIA**************");
-		System.out.println("Acessando: " +classe+"."+metodo+"("+params+")");
-		
+		System.out.println("Acessando: " + classe + "." + metodo + "(" + params
+				+ ")");
+		System.out.println("\n\n\n\n");
+
 		return ctx.proceed();
 	}
 }

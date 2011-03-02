@@ -18,7 +18,7 @@ public class ClienteGerenciador {
 		GerenciadorLoja gerenciador = (GerenciadorLoja)ctx.lookup("fj31-loja-ear/GerenciadorLojaBean/remote");
 		
 		Livro livro = new Livro();
-		livro.setNome("Pais e Filhos G4");
+		livro.setNome("Pais e Filhos G8");
 		livro.setPreco(1.99);
 		
 		gerenciador.salva(livro);
