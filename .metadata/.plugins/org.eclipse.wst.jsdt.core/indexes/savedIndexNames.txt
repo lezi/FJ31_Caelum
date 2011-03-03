@@ -1,9 +1,0 @@
-INDEX VERSION 1.122+/home/ejb1820/Desktop/workspace-fj31/.metadata/.plugins/org.eclipse.wst.jsdt.core/indexes
-1416480705.index
-1242651147.index
-2452336224.index
-3168648185.index
-2704574523.index
-181084110.index
-4237212528.index
-1437418105.index
