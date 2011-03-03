@@ -1,0 +1,11 @@
+package br.com.caelum.loja.interceptors;
+
+import javax.interceptor.AroundInvoke;
+import javax.interceptor.InvocationContext;
+
+public class AuditoriaInterceptor {
+	@AroundInvoke
+	public Object log(InvocationContext ctx) throws Exception {
+
+	}
+}

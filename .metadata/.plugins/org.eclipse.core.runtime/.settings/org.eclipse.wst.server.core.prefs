@@ -1,0 +1,4 @@
+#Mon Feb 28 21:26:09 BRT 2011
+module-start-timeout=300000
+runtimes=<?xml version\="1.0" encoding\="UTF-8" standalone\="no"?>\n<runtimes>\n  <runtime id\="JBoss v5.0" location\="/home/caelum/Desktop/jboss-6.0.0.20101110-CR1/bin" name\="JBoss v5.0" runtime-type-id\="org.eclipse.jst.server.generic.runtime.jboss5" server_definition_id\="org.eclipse.jst.server.generic.runtime.jboss5" timestamp\="0">\n    <map key\="generic_server_instance_properties" serverRootDirectory\="/home/caelum/Desktop/jboss-6.0.0.20101110-CR1"/>\n  </runtime>\n  <runtime PROPERTY_EXEC_ENVIRONMENT\="JavaSE-1.6" id\="JBoss 6.0 Runtime" location\="/home/ejb1820/Desktop/jboss" name\="JBoss 6.0 Runtime" org.jboss.ide.eclipse.as.core.runtime.configurationLocation\="server" org.jboss.ide.eclipse.as.core.runtime.configurationName\="default" runtime-type-id\="org.jboss.ide.eclipse.as.runtime.60" timestamp\="0"/>\n</runtimes>\n
+eclipse.preferences.version=1

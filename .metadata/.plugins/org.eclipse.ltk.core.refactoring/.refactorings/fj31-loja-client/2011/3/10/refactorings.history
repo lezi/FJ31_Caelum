@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy element &apos;jndi.properties&apos; to &apos;fj31-jms-standalone/src&apos;&#x0A;- Original project: &apos;fj31-loja-client&apos;&#x0A;- Destination element: &apos;fj31-jms-standalone/src&apos;&#x0A;- Original element: &apos;jndi.properties&apos;" description="Copy file" destination="=fj31-jms-standalone/src" element1="appClientModule/jndi.properties" files="1" flags="589830" folders="0" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyResources" stamp="1299111219615" units="0" version="1.0"/>
+</session>
